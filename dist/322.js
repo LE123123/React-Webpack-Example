@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebpackexample=self.webpackChunkwebpackexample||[]).push([[322],{322:(e,a,n)=>{n.r(a),n.d(a,{default:()=>t});var l=n(466);const t=function(){return l.createElement("div",null,"Loadable Component is Here!")}}}]);

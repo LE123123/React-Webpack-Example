@@ -9,6 +9,7 @@ const Home = () => {
   const [visible, setVisible] = useState(false);
   const onButtonHandler = () => {
     setVisible((prev) => !prev);
+    console.log("clicked");
   };
 
   return (
